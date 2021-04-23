@@ -1,2 +1,0 @@
-# ExchangeRatesApi_Proje
-ExchangeRatesApi_Proje
